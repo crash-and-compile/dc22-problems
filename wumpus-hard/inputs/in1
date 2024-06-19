@@ -1,0 +1,506 @@
+__________
+__________
+__B_______
+__________
+__________
+_________T
+__________
+__________
+__________
+_____S____
+W E
+N S
+W W
+E N
+E E
+N E
+N W
+E S
+E S
+N S
+S W
+E W
+S E
+W W
+E N
+N W
+E N
+S S
+S W
+E W
+W E
+S E
+N W
+W S
+E S
+W E
+W N
+W S
+S S
+W N
+N W
+S N
+N W
+N E
+E S
+N N
+W S
+S E
+N E
+S W
+S E
+END
+__________
+__________
+_T________
+__________
+___S______
+_____B____
+__________
+__________
+__________
+__________
+E W
+S W
+W E
+E E
+E S
+E S
+S E
+E N
+S N
+S N
+S W
+W W
+E W
+N N
+N W
+E N
+W E
+S W
+S N
+E E
+W N
+E W
+E S
+E E
+W S
+W E
+S W
+W N
+E S
+W S
+N S
+S W
+W W
+E W
+E N
+E N
+S E
+W N
+N N
+N E
+N S
+N S
+E N
+S W
+END
+_T________
+__________
+__________
+__________
+__________
+__________
+__________
+__________
+________S_
+__B_______
+S S
+N W
+S N
+E W
+W E
+S W
+E E
+N E
+E E
+N E
+S S
+N S
+N N
+W S
+N N
+S S
+S S
+S N
+W E
+W E
+E S
+S W
+W W
+E N
+S W
+W N
+N W
+S W
+S N
+E N
+N W
+E E
+E S
+W S
+N N
+W N
+E N
+E E
+E E
+N W
+W S
+E S
+E E
+S N
+S N
+END
+__________
+__T_______
+__________
+__________
+__________
+__________
+__________
+B____S____
+__________
+__________
+W N
+S S
+E E
+N N
+S N
+W N
+E W
+W E
+W W
+S S
+W S
+E S
+E N
+W S
+S W
+S S
+W E
+W E
+E W
+S E
+N E
+N N
+E W
+W W
+N N
+S W
+E E
+W W
+W S
+E E
+N E
+W S
+E W
+S W
+S W
+N E
+N W
+N W
+E S
+W S
+W W
+N S
+W S
+W S
+N W
+N S
+E N
+W N
+S N
+E E
+S E
+END
+______T___
+__________
+__________
+______S___
+__________
+__________
+_____B____
+__________
+__________
+__________
+W W
+S N
+E W
+E E
+W N
+W E
+E S
+S S
+S W
+S W
+S W
+W S
+W N
+E S
+W N
+S N
+W S
+S S
+E W
+S E
+N N
+S W
+E W
+S E
+E N
+W E
+W S
+W N
+E W
+S E
+E S
+S E
+S N
+S E
+W W
+N S
+END
+__________
+_S_______T
+__________
+__________
+__________
+__B_______
+__________
+__________
+__________
+__________
+N E
+W E
+S S
+N S
+W W
+E S
+S W
+W S
+N E
+N S
+N S
+N S
+W W
+W N
+N S
+W N
+W E
+S N
+E E
+W S
+W N
+E S
+S N
+E E
+W S
+S S
+N E
+E N
+N W
+E E
+W W
+W S
+S W
+W E
+E W
+S N
+N W
+E E
+W N
+E S
+E W
+E N
+S W
+N S
+END
+__________
+__________
+_B________
+______S___
+__________
+__________
+__________
+__________
+__________
+_________T
+S W
+N E
+S W
+S E
+N E
+S S
+W W
+E S
+E W
+S S
+W E
+N W
+E W
+N W
+W E
+N N
+N E
+N N
+W E
+S W
+N W
+E S
+E N
+E N
+N N
+N W
+E N
+S S
+W W
+S E
+W W
+S S
+W E
+W S
+S E
+E N
+W W
+E E
+E W
+E N
+W E
+S W
+N W
+N N
+S N
+N S
+W N
+END
+_B__S_____
+__________
+__________
+__________
+__________
+__________
+__________
+__________
+___T______
+__________
+W E
+S N
+W W
+S S
+N N
+N W
+S N
+S N
+W S
+W S
+S E
+S S
+S E
+S W
+S N
+S S
+N W
+W E
+E N
+E E
+S W
+W E
+N S
+S W
+E W
+E W
+E S
+E W
+E W
+S E
+N E
+N W
+N W
+S W
+N W
+S W
+E S
+W N
+E E
+E N
+E N
+E S
+S S
+E E
+E S
+E S
+E W
+W S
+E E
+N N
+N S
+E S
+S E
+W E
+N W
+END
+__________
+__________
+__________
+_________T
+__________
+__________
+__B_______
+__________
+___S______
+__________
+S E
+S N
+S S
+S E
+W E
+W E
+W S
+E S
+W E
+E E
+E N
+N W
+N W
+E S
+S S
+E W
+W N
+W S
+S W
+W S
+N S
+W S
+N S
+E E
+E S
+N W
+S N
+E N
+N W
+S S
+S N
+W N
+N W
+W S
+S W
+S W
+E W
+S E
+N N
+N W
+N W
+W W
+E N
+S N
+END

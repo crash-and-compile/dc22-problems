@@ -1,0 +1,53 @@
+#!/usr/bin/perl
+
+
+($problem_file, $solution_file) = @ARGV;
+open(INFILE,">$problem_file");
+open(OUTFILE,">$solution_file");
+
+my $count = int(rand(20))+10;
+
+for ($n = 0; $n < $count; $n++)
+{
+	my $start = int(rand(100));
+	my $cnt = int(rand(5)) + 5;
+	my $xpos = int(rand(100));
+	my $xp = -1;
+	if(($xpos % 2) == 0){
+		$xp = 1;
+	}
+	$ypos = int(rand(100));
+	my $yp = -1;
+	if(($ypos % 2) == 0){
+		$yp = 1;
+	}
+	$zpos = int(rand(100));
+	my $zp = -1;
+	if(($zpos % 2) == 0){
+		$zp = 1;
+	}
+	my $x = $xp * int(rand(50));
+	my $y = $yp * int(rand(50));
+	my $z = $zp * int(rand(50));
+	my $diff = $x * $y * $z;
+	my $val = $start;
+	my $string = "";
+	my @seq = ();
+	for(my $x = 0; $x < $cnt; $x++){
+		push(@seq,$val);
+		$val += $diff;
+	}
+	my $string = join(" ", @seq);	
+
+	$instring .= "$string\n";
+	$outstring .= "$val\n";
+}
+
+
+
+print INFILE "$instring";
+#print OUTFILE "$val ($x * $y * $z)\n";
+print OUTFILE "$outstring";
+
+close (INFILE);
+close (OUTFILE);

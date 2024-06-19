@@ -1,0 +1,21 @@
+basex
+
+easy version should be current hard version
+
+number input_base base_we_want  - return number in base we want
+
+
+
+medium
+
+source_number source_base desired_number - return what base the source number would have to be in to equal the desired_number
+
+
+
+hard
+
+generate random number
+
+source_number_1 source_number_2 - return the lowest bases of both numbers in order for both numbers to be equivalent.
+
+
